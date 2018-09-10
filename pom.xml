@@ -8,13 +8,7 @@
 	<version>1.2.1</version>
 	<packaging>jar</packaging>
 	<description>Use of PSL software for deductive reasoning.</description>
-	<dependencies>
-		<dependency>
-			<groupId>edu.umd.cs</groupId>
-			<artifactId>psl-groovy</artifactId>
-			<version>1.2.1</version>
-		</dependency>
-	</dependencies>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
